@@ -5,10 +5,21 @@
     <title>CS 452 Project 2</title>
     <style>
       body {margin: 0;}
+      #selector {
+	       position: absolute;
+	       top: 10px;
+	       width: 100%;
+         margin-left: 15px;
+	       z-index: 100;
+	       display:block;
+      }
     </style>
   </head>
   <body>
-    <script src="js/three.js"></script>
-    <script src="project.js"></script>
+    <script type="module" src="./project.js"></script>
+
+    <div id="selector">
+      Moving Copper Pot
+    </div>
   </body>
 </html>
