@@ -1,0 +1,11 @@
+Model Information:
+* title:	Empty room free download
+* source:	https://sketchfab.com/3d-models/empty-room-free-download-5ab42c737cb04aa9bfc39e58715a6b38
+* author:	jetpack10 (https://sketchfab.com/samuelcrevier)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Empty room free download" (https://sketchfab.com/3d-models/empty-room-free-download-5ab42c737cb04aa9bfc39e58715a6b38) by jetpack10 (https://sketchfab.com/samuelcrevier) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
